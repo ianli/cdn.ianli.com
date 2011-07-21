@@ -1,4 +1,5 @@
-h1. CDN for ianli.com
+CDN for Ian Li's projects
+=========================
 
 This is a project to create a CDN for the assets that I use for my various projects.
 
